@@ -1,0 +1,17 @@
+{
+    "name": "attrectotest/calculator",
+    "description": "test calculator for packages",
+    "authors": [
+        {
+            "name": "Varga Roland",
+            "email": "roland.varga@attrecto.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Attrectotest\\Calculator\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
